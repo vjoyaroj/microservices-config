@@ -6,6 +6,9 @@ Servidor Spring Cloud Config que publica configuraciones externas para los micro
 ## Endpoints
 No expone endpoints de negocio (servicio de infraestructura).
 
+## Nota
+El `docker-compose.yml` del entorno esta en (`yanki-service`).
+
 ## Proyectos relacionados
 - https://github.com/vjoyaroj/bank-config-repo
 - https://github.com/vjoyaroj/microservices-config
