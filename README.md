@@ -3,6 +3,10 @@
 ## Descripcion
 Servidor Spring Cloud Config que publica configuraciones externas para los microservicios.
 
+Diagrama de microservicos completo
+
+<img width="670" height="450" alt="image" src="https://github.com/user-attachments/assets/66e1f822-3110-4db5-bb85-2bad04884246" />
+
 ## Endpoints
 No expone endpoints de negocio (servicio de infraestructura).
 
